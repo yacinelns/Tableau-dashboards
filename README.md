@@ -1,2 +1,2 @@
 # tableau_dashboard
-Tableau dashboards
+Tableau dashboard from an US AirBNB's 2016 dataset
